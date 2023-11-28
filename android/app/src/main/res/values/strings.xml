@@ -1,0 +1,4 @@
+<resources>
+ <!-- launcher app name. -->
+    <string name="app_name">Native App</string>
+</resources>
